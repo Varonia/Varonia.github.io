@@ -3,69 +3,74 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Varonia.github.io/posts/2020/05/hello-hugo/</loc>
+    <loc>https://github.com/Varonia/Varonia.github.io/posts/2020/07/eventbus%E7%AE%80%E5%8D%95%E7%90%86%E8%A7%A3/</loc>
+    <lastmod>2020-07-30T23:12:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Varonia/Varonia.github.io/posts/</loc>
+    <lastmod>2020-07-30T23:12:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/Varonia/Varonia.github.io/</loc>
+    <lastmod>2020-07-30T23:12:20+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://github.com/Varonia/Varonia.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://github.com/Varonia/Varonia.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://github.com/Varonia/Varonia.github.io/posts/2020/05/hello-hugo/</loc>
     <lastmod>2020-05-17T22:00:38+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://Varonia.github.io/posts/</loc>
-    <lastmod>2020-05-17T22:00:38+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Varonia.github.io/</loc>
-    <lastmod>2020-05-17T22:00:38+08:00</lastmod>
+    <loc>https://github.com/Varonia/Varonia.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://Varonia.github.io/fr/"
+                href="https://github.com/Varonia/Varonia.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Varonia.github.io/"
+                href="https://github.com/Varonia/Varonia.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://Varonia.github.io/categories/</loc>
+    <loc>https://github.com/Varonia/Varonia.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://Varonia.github.io/fr/categories/"
+                href="https://github.com/Varonia/Varonia.github.io/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Varonia.github.io/categories/"
+                href="https://github.com/Varonia/Varonia.github.io/series/"
                 />
   </url>
   
   <url>
-    <loc>https://Varonia.github.io/series/</loc>
+    <loc>https://github.com/Varonia/Varonia.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://Varonia.github.io/fr/series/"
+                href="https://github.com/Varonia/Varonia.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Varonia.github.io/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://Varonia.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://Varonia.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Varonia.github.io/tags/"
+                href="https://github.com/Varonia/Varonia.github.io/tags/"
                 />
   </url>
   
